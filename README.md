@@ -43,6 +43,8 @@ The goal of this project is to build a machine learning model to **predict wheth
 ## 📊 Visuals
 
 - Bar chart showing feature importance.
+- churn by age group
+- churn by gender
 ---
 
 ## 🤝 Contact
